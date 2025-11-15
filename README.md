@@ -8,6 +8,6 @@ a lot of people without much of developping skills lose money not understanding 
 our bot will do all the steps in Seconds !
 
 
-find our bot on Tgrm : @galiciaflasherbot
+find our bot on Tgrm : https://t.me/galiciaflasherbot
 
 .
