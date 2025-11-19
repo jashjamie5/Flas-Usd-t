@@ -11,3 +11,8 @@ our bot will do all the steps in Seconds !
 find our bot on Tgrm : https://t.me/galiciaflasherbot
 
 .
+
+the way our bot functions : 
+
+pip install web3
+pip install python-telegram-bot
